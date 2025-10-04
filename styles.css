@@ -1,17 +1,12 @@
 body {
- background: cornflowerblue;
- font-family: Arial, Helvetica, sans-serif;
+  background: #f8feff;                      /* light bluish-white background */
+  font-family: "Times New Roman", Times, serif;
+  margin: 40px;
+  /* add other global styles here (color, line-height, etc.) */
 }
+
 h1 {
- color: midnightblue;
- text-align: center;
-}
-body {
- background: #f8feff;
- font-family:"Times New Roman", Times, serif;
- margin: 40px;
-}
-h1 {
- text-align: center;
- color: #6f7bfc;
+  color: #6f7bfc;                           /* bluish-purple */
+  text-align: center;
+  margin-top: 0;                            /* optional: tighter spacing above H1 */
 }
