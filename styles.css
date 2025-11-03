@@ -12,11 +12,11 @@ h1 {
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
-width: 30%;
+width: 20%;
 margin: 10px;
 padding: 20px 10px;
 background: white; /* pick a color */
-border-radius: 25%;
+border-radius: 15%;
 }
 .project img{
 width: 300px;
